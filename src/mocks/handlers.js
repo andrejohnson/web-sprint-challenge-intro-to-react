@@ -8,7 +8,7 @@ export const handlers = [
 ];
 
 export const data = [
-  {
+  {i:"https://www.youtube.com/embed/NvlWSsZwLn0",
     name: "Luke Skywalker",
     height: "172",
     mass: "77",
@@ -37,7 +37,7 @@ export const data = [
     edited: "2014-12-20T21:17:56.891000Z",
     url: "http://swapi.dev/api/people/1/",
   },
-  {
+  {i:"https://www.youtube.com/embed/Z_OjTojCNm0",
     name: "C-3PO",
     height: "167",
     mass: "75",
@@ -62,7 +62,7 @@ export const data = [
     edited: "2014-12-20T21:17:50.309000Z",
     url: "http://swapi.dev/api/people/2/",
   },
-  {
+  {i:'https://www.youtube.com/embed/JLmOteqmDYc',
     name: "R2-D2",
     height: "96",
     mass: "32",
@@ -87,7 +87,7 @@ export const data = [
     edited: "2014-12-20T21:17:50.311000Z",
     url: "http://swapi.dev/api/people/3/",
   },
-  {
+  {i:'https://www.youtube.com/embed/wxL8bVJhXCM',
     name: "Darth Vader",
     height: "202",
     mass: "136",
@@ -111,7 +111,7 @@ export const data = [
     edited: "2014-12-20T21:17:50.313000Z",
     url: "http://swapi.dev/api/people/4/",
   },
-  {
+  {i:'https://www.youtube.com/embed/rHvfpZdYEbk',
     name: "Leia Organa",
     height: "150",
     mass: "49",
@@ -134,7 +134,7 @@ export const data = [
     edited: "2014-12-20T21:17:50.315000Z",
     url: "http://swapi.dev/api/people/5/",
   },
-  {
+  {i:'https://www.youtube.com/embed/5UW1PIplmlc',
     name: "Owen Lars",
     height: "178",
     mass: "120",
